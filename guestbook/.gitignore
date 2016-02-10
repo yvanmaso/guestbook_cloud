@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.class
+*.iml
+*.iws
+*.jar
+.DS_Store
+.classpath
+.project
+.settings/
+log/
+target/
+eclipse-launch-profiles
